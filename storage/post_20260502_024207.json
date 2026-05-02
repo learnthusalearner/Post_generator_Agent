@@ -1,0 +1,16 @@
+{
+  "input_data": {
+    "topic": "Influencer Marketing ROI",
+    "goal": "educational / promotional",
+    "platform": "instagram",
+    "brand_id": "influight",
+    "constraints": [
+      "minimalist",
+      "no copyright",
+      "teal theme"
+    ]
+  },
+  "final_prompt": "Create a professional instagram infographic. Constraints: minimalist, no copyright, teal theme. Content hook: Stop scrolling! Here's why Influencer Marketing ROI is changing the game.. Clean layout, sans-serif typography, central visual element.",
+  "image_url": "https://example.com/generated-image-mock.png",
+  "timestamp": "2026-05-02T02:42:07.003628"
+}

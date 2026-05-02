@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "topic": "Sales vs Influencer Marketing",
+    "goal": "educational / promotional",
+    "platform": "instagram",
+    "format": "story \u00b7 9:16",
+    "brand_id": "influight",
+    "constraints": [
+      "minimalist",
+      "no copyright",
+      "teal theme"
+    ]
+  },
+  "plan": {
+    "title": "The Ultimate Guide to Sales vs Influencer Marketing",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "content": "Welcome to our post."
+      }
+    ],
+    "insight": "Here is an insight.",
+    "cta": "Like and subscribe!"
+  },
+  "content": {
+    "hook": "Stop scrolling! Here's why Sales vs Influencer Marketing is changing the game.",
+    "body": [
+      {
+        "heading": "Introduction",
+        "content": "Welcome to our post."
+      }
+    ],
+    "stats": [
+      "90% of people miss this."
+    ],
+    "cta_refined": "Like and subscribe!"
+  },
+  "design_prompt": "Create a professional instagram infographic. Constraints: minimalist, no copyright, teal theme. Content hook: Stop scrolling! Here's why Sales vs Influencer Marketing is changing the game.. Clean layout, sans-serif typography, central visual element.",
+  "logo_prompt": "Generate a logo for influight.\n\nLayout: icon-left-wordmark-right\nIcon: signal-bars (using brand colors)\nBar arrangement: horizontal-pill-row\nContext mood: Stop scrolling! Here's why Sal...\n\nColors: R #E63946 \u00b7 O #F4841A \u00b7 Y #F5C518 \u00b7 G #2A9D5C \u00b7 T #1BA89A\nBackground: dark navy #0D1B2A\nWordmark: \"influight\" in white rounded sans-serif, clearly legible\nAll 5 colored pill bars must appear.\n\nNegative prompt: serif, gradient, blurry, missing text, wrong colors\nOutput: 1200x600px transparent-bg PNG + dark-bg PNG",
+  "final_prompt": "Create a professional instagram infographic. Constraints: minimalist, no copyright, teal theme. Content hook: Stop scrolling! Here's why Sales vs Influencer Marketing is changing the game.. Clean layout, sans-serif typography, central visual element.\n\nLOGO INSTRUCTIONS (do not ignore):\n- Place Influight logo TOP CENTER of canvas\n- Logo style: signal-bars icon \u00b7 horizontal-pill-row bars \u00b7 icon-left-wordmark-right layout\n- Wordmark: \"influight\" white rounded bold sans-serif\n- Pill bars: Red #E63946 \u00b7 Orange #F4841A \u00b7 Yellow #F5C518 \u00b7 Green #2A9D5C \u00b7 Teal #1BA89A\n- Reserve top 12% of canvas for logo. Must NOT overlap headline.\n- Background behind logo: dark navy #0D1B2A\n\nNegative: serif font, white background, missing wordmark, blurry text,\nlogo overlapping headline, wrong colors, stock photo watermark\n",
+  "guardrail_issues": [],
+  "qa_feedback": "",
+  "qa_passed": true,
+  "image_url": "https://ideogram.ai/api/mock/variant-B-456.png",
+  "variant_scores": {
+    "A": {
+      "scroll_stop": 7,
+      "brand_recall": 6,
+      "message_clarity": 8,
+      "platform_fit": 8,
+      "trust_authority": 7,
+      "cta_energy": 6,
+      "weighted_total": 7.1
+    },
+    "B": {
+      "scroll_stop": 9,
+      "brand_recall": 9,
+      "message_clarity": 9,
+      "platform_fit": 8,
+      "trust_authority": 8,
+      "cta_energy": 7,
+      "weighted_total": 8.65
+    },
+    "C": {
+      "scroll_stop": 6,
+      "brand_recall": 5,
+      "message_clarity": 6,
+      "platform_fit": 7,
+      "trust_authority": 6,
+      "cta_energy": 5,
+      "weighted_total": 5.9
+    }
+  },
+  "selection_reasoning": "Variant B demonstrated exceptional brand recall and message clarity, ensuring immediate recognition while respecting the native platform safe zones. It effectively balances authority with high-energy composition.",
+  "logo_combination_used": "signal-bars + horizontal-pill-row"
+}

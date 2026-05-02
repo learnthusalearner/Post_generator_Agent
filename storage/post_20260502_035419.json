@@ -1,0 +1,18 @@
+{
+  "input_data": {
+    "topic": "Sales vs Influencer Marketing",
+    "goal": "educational / promotional",
+    "platform": "instagram",
+    "format": "story \u00b7 9:16",
+    "brand_id": "influight",
+    "constraints": [
+      "minimalist",
+      "no copyright",
+      "teal theme"
+    ]
+  },
+  "final_prompt": "Create a professional instagram infographic. Constraints: minimalist, no copyright, teal theme. Content hook: Stop scrolling! Here's why Sales vs Influencer Marketing is changing the game.. Clean layout, sans-serif typography, central visual element.",
+  "logo_prompt": "Generate a logo for influight.\n\nLayout: square-badge\nIcon: broadcast-lines (using brand colors)\nBar arrangement: stacked-left-to-right\nContext mood: Stop scrolling! Here's why Sal...\n\nColors: R #E63946 \u00b7 O #F4841A \u00b7 Y #F5C518 \u00b7 G #2A9D5C \u00b7 T #1BA89A\nBackground: dark navy #0D1B2A\nWordmark: \"influight\" in white rounded sans-serif, clearly legible\nAll 5 colored pill bars must appear.\n\nNegative prompt: serif, gradient, blurry, missing text, wrong colors\nOutput: 1200x600px transparent-bg PNG + dark-bg PNG",
+  "image_url": "https://example.com/generated-image-mock.png",
+  "timestamp": "2026-05-02T03:54:19.966377"
+}
